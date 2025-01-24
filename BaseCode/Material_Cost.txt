@@ -1,0 +1,38 @@
+------------------------------------------------------
+**J826 Section**
+
+J826; VeroUltraWhite; 4000 g; $1,972.60
+
+J826; VeroBlackPlus; 4000 g; $1,972.60
+
+J826; DraftGrey; 4000 g; $852.60
+
+J826; SUP706; 4000g; $687.40
+
+J826; P400SC; x; $7.22
+
+------------------------------------------------------
+**F370 Section**
+
+F370; QSR support; 60ci; $291.04
+
+F370; PC-ABS BLK; 90ci; $480.08
+
+F370; TPU 92A - Black; 60ci ; $404
+
+F370; Tray; x; $16.25
+
+-------------------------------------------------------
+
+** this data is taken from the javelin quote PDF **
+
+**Info from description, Rate columns, must know printer from material**
+
+**If you want to add a material, follow the format, code must be edited however**
+
+** {printer name }; {Support Material}; {Volume in g J826/ volume ci F370}; {$cost}**
+
+**F370; Tray; x; $(260/16), this is a tray for one time use**
+
+**J826; P400SC; x; $((260/12)3),this is the chemical bath agent**
+

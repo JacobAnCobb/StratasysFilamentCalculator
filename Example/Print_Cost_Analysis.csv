@@ -1,0 +1,12 @@
+Print Job,Printer Type,Filament Fee,Flat Fee,Total Fee,Company Name
+Print Job 1,F370,145.37,16.25,161.62,Company A
+Print Job 2,F370,106.71,16.25,122.96,Benson
+Print Job 3,F370,38.81,16.25,55.06,Benson
+Print Job 4,F370,214.4,16.25,230.65,Guesey
+Print Job 5,F370,133.65,16.25,149.9,Benson_test
+Print Job 6,F370,568.85,16.25,585.1,Company B
+Print Job 7,F370,530.49,16.25,546.74,Wow!
+Print Job 8,J826,102.28,7.22,109.5,Inertia
+Print Job 9,J826,30.17,7.22,37.39,FourStroke
+Print Job 10,J826,75.49,7.22,82.71,CompanyB
+Print Job 11,J826,268.93,7.22,276.15,CompanyD
